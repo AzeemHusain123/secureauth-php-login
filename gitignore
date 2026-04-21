@@ -1,0 +1,67 @@
+# =====================
+# PHP / WAMP Server
+# =====================
+
+# Database config (NEVER commit credentials)
+db.php
+config.php
+*.env
+
+# PHP error logs
+php_errors.log
+error_log
+
+# =====================
+# OS Files
+# =====================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+
+# =====================
+# IDE & Editor Files
+# =====================
+
+# VS Code
+.vscode/
+
+# PhpStorm / JetBrains
+.idea/
+*.iml
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Notepad++
+nppBackup/
+
+# =====================
+# WAMP / Server Logs
+# =====================
+*.log
+logs/
+tmp/
+temp/
+
+# =====================
+# Backup Files
+# =====================
+*.bak
+*.backup
+*.old
+*.orig
+*.swp
+*.tmp
