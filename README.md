@@ -203,6 +203,5 @@ http://localhost/secureauth/login.php
 ## 👤 Author
 
 **Azeem Mohamed Husain**  
-Student ID: B22F0759CS142  
 Department of IT & Computer Science  
 Pak-Austria Fachhochschule, Haripur, Pakistan
